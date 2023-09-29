@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 @Builder
 public class ResponseProduct {
 
-//    private Long id;
     private String productCode;
     private String productName;
 
